@@ -1,2 +1,4 @@
 *.class
 \mysql-connector-j-9.7.0\
+/out
+/.idea
